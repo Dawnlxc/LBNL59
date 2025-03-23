@@ -10,11 +10,11 @@ Each heatmap is plotted after resampling and outlier removal.
 
 ## Error Report
 Below points own meter records but not in the LBNL Brick model:
-- rtu_*_sat_sp_tn (*: 001, 002, 003, 004)
-- rtu_*_oa_temp (*: 001, 002, 003, 004)
-- rtu_*_fltrd_sa_flow_tn (*: 001, 002, 003, 004)
-- rtu_*_oa_flow_tn (*: 001, 002, 003, 004)
-- rtu_*_oadmpr_pct (*: 001, 002, 003, 004)
+- rtu_*_sat_sp_tn (\*: 001, 002, 003, 004)
+- rtu_*_oa_temp (\*: 001, 002, 003, 004)
+- rtu_*_fltrd_sa_flow_tn (\*: 001, 002, 003, 004)
+- rtu_*_oa_flow_tn (\*: 001, 002, 003, 004)
+- rtu_*_oadmpr_pct (\*: 001, 002, 003, 004)
 
 ## Heatmap
 ### Indoor Environmental Data
