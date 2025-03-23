@@ -6,14 +6,15 @@ Duration: 2020-08-01 00:00:00 -- 2021-01-01 00:00:00
 
 Sampling frequency: 15min
 
-Each heatmap is plotted after resampling and outlier removing.
+Each heatmap is plotted after resampling and outlier removal.
 
 ## Error Report
-- rtu_*_sat_sp_tn is not in Brick.
-- rtu_*_oa_temp is not in Brick.
-- rtu_*_fltrd_sa_flow_tn is not in Brick.
-- rtu_*_oa_flow_tn is not in Brick.
-- rtu_*_oadmpr_pct is not in Brick.
+Below points own meter records but not in the LBNL Brick model:
+- rtu_*_sat_sp_tn (*: 001, 002, 003, 004)
+- rtu_*_oa_temp (*: 001, 002, 003, 004)
+- rtu_*_fltrd_sa_flow_tn (*: 001, 002, 003, 004)
+- rtu_*_oa_flow_tn (*: 001, 002, 003, 004)
+- rtu_*_oadmpr_pct (*: 001, 002, 003, 004)
 
 ## Heatmap
 ### Indoor Environmental Data
