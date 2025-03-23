@@ -1,4 +1,4 @@
-# LBNL59
+# Lawrence Berkeley National Lab Dataset (LBNL59)
 
 Data source: LBNL59
 
