@@ -17,14 +17,16 @@ Below points own meter records but not in the LBNL Brick model:
 - rtu_*_oadmpr_pct (\*: 001, 002, 003, 004)
 
 ## Heatmap
-### Indoor Environmental Data
+### Zone-level Data
 ![zone heating setpoints](./heatmap/zone_*_heating_sp.png)
 ![zone cooling setpoints](./heatmap/zone_*_cooling_sp.png)
 ![zone cooling setpoints](./heatmap/cerc_templogger_*.png)
 ![zone cooling setpoints](./heatmap/zone_*_temp.png)
 ![zone cooling setpoints](./heatmap/zone_*_co2.png)
+![zone heating setpoints](./heatmap/zone_*_fan_spd.png)
+![zone heating setpoints](./heatmap/zone_*_hw_valve.png)
 
-### HVAC Operational Data
+### AHU-level Data
 ![zone heating setpoints](./heatmap/rtu_*_sat_sp_tn.png)
 ![zone heating setpoints](./heatmap/rtu_*_sa_temp.png)
 ![zone heating setpoints](./heatmap/rtu_*_ra_temp.png)
@@ -38,5 +40,3 @@ Below points own meter records but not in the LBNL Brick model:
 ![zone heating setpoints](./heatmap/rtu_*_fltrd_**_plenum_press_tn.png)
 ![zone heating setpoints](./heatmap/rtu_*_sf_vfd_spd_fbk_tn.png)
 ![zone heating setpoints](./heatmap/rtu_*_rf_vfd_spd_fbk_tn.png)
-![zone heating setpoints](./heatmap/zone_*_fan_spd.png)
-![zone heating setpoints](./heatmap/zone_*_hw_valve.png)
