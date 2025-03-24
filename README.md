@@ -20,6 +20,7 @@ Below points own meter records but not in the LBNL Brick model:
 ### Zone-level Data
 ![zone heating setpoints](./heatmap/zone_*_heating_sp.png)
 ![zone cooling setpoints](./heatmap/zone_*_cooling_sp.png)
+Zone temperature of interior zone [cerc_templogger_*]: Unit probably wrong, possible be °C.
 ![zone cooling setpoints](./heatmap/cerc_templogger_*.png)
 ![zone cooling setpoints](./heatmap/zone_*_temp.png)
 ![zone cooling setpoints](./heatmap/zone_*_co2.png)
