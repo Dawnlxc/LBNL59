@@ -16,6 +16,32 @@ Below points own meter records but not in the LBNL Brick model:
 - rtu_*_oa_flow_tn (\*: 001, 002, 003, 004)
 - rtu_*_oadmpr_pct (\*: 001, 002, 003, 004)
 
+## Overall Site Information
+Temperature
+
+## IoT Points in RTUs
+RTU01
+![zone heating setpoints](./rtu/e02_RTU01.png)
+RTU02
+![zone heating setpoints](./rtu/e02_RTU02.png)
+RTU03
+![zone heating setpoints](./rtu/e02_RTU03.png)
+RTU04
+![zone heating setpoints](./rtu/e02_RTU04.png)
+
+## Temperature in Each RTU and Supplied Zones
+RTU01
+![zone heating setpoints](./rtu&zones/e02_RTU01.png)
+RTU02
+![zone heating setpoints](./rtu&zones/e02_RTU02.png)
+RTU03
+![zone heating setpoints](./rtu&zones/e02_RTU03.png)
+RTU04
+![zone heating setpoints](./rtu&zones/e02_RTU04.png)
+
+## Air-source Heatpump
+
+
 ## Heatmap
 ### Zone-level Data
 ![zone heating setpoints](./heatmap/zone_*_heating_sp.png)
